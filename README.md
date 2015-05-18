@@ -5,7 +5,7 @@ This repository contains a pre-compiled version of [PhantomJS 2.0.0](https://git
 To build it yourself, do the following:
 
     $ sudo apt-get install build-essential g++ flex bison gperf ruby perl \
-        libsqlite3-dev libfontconfig1-dev libicu-dev libfreetype6 libssl-dev
+        libsqlite3-dev libfontconfig1-dev libicu-dev libfreetype6 libssl-dev \
         libpng-dev libjpeg-dev python
     $ wget https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.0.0-source.zip
     $ unzip phantomjs-2.0.0-source.zip
