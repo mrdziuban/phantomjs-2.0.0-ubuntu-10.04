@@ -1,6 +1,6 @@
 # PhantomJS 2.0.0 for Ubuntu 10.04
 
-This repository contains a pre-compiled version of [PhantomJS 2.0.0](https://github.com/ariya/phantomjs/tree/2.0.0) for Ubuntu 10.04 x686.
+This repository contains a pre-compiled version of [PhantomJS 2.0.0](https://github.com/ariya/phantomjs/tree/2.0.0) for Ubuntu 10.04 i686.
 
 To build it yourself, do the following:
 
